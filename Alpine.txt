@@ -1,0 +1,20 @@
+//Zone table for Alpine
+---------------------------------------
+Zone         Begin     End     SecCount
+---------------------------------------
+Zone 00:     00018   00BE8     44C
+Zone 01:     00BE9   027FE     420
+Zone 02:     027FF   04707     402
+Zone 03:     04708   06CA3     3DE
+Zone 04:     06CA4   08B66     3B9
+Zone 05:     08B67   0A479     394
+Zone 06:     0A47A   0C405     370
+Zone 07:     0C406   0D99A     344
+Zone 08:     0D99B   0ECD9     326
+Zone 09:     0ECDA   10337     302
+Zone 0A:     10338   11397     2DD
+Zone 0B:     11398   12854     2B3
+Zone 0C:     12855   13F38     294
+Zone 0D:     13F39   14AE7     26F
+Zone 0E:     14AE8   155D6     25D
+Zone 0F:     155D7   16358     23C
